@@ -1,0 +1,7 @@
+
+.header{
+    background-color: cadetblue;
+     font: italic small-caps bold 12px/1.5 Helvetica, Arial, sans-serif;
+
+    display: flex;
+}
